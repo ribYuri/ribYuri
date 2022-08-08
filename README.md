@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! I'm Yuri 👋</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ribYuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ribYuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ### I'm a student at the Universidade Federal de Ouro Preto
