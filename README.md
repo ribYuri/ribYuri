@@ -7,7 +7,7 @@
 ### I'm a student at the Universidade Federal de Ouro Preto
 * ⚡ I'm focusing in Full Stack development
 * 🤯 I'm currently studying HTML, CSS and JavaScript
-* 🎮 I really like games, movies and series
+* 🎮 I really like games, movies, series and the geek world
 
 ---
 
